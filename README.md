@@ -40,8 +40,8 @@ Para começar a utilizar a API MyMovies, siga os passos abaixo:
 1. Clone o repositório para a sua máquina local.
 
    ```bash
-   git clone https://github.com/seu-usuario/mymovies-api.git
-   cd mymovies-api
+   git clone https://github.com/PedroMarques391/MyMovies.git
+   cd MyMovies
    ```
 
 2. Instale as dependências necessárias:
